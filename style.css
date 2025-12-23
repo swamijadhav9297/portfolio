@@ -164,7 +164,7 @@ span{
 }
 
 .about-content h2{
-    margin-top: 20rem;
+    
     text-align: left;
     line-height: 1.2;;
     
@@ -176,8 +176,8 @@ span{
 }
 
 .about-content p{
-    font-size: 1.6rem;
-    margin: 2rem 0 3rem;
+    font-size: 1.8rem;
+    margin: 5rem 0.0 6rem;
 }
 
 .services h2{
@@ -241,7 +241,6 @@ border-radius: 2rem;
 box-shadow: 0 0 1rem var(--bg-color);
 overflow: hidden;
 display:  flex;
-width: 400px;
 
 }
 
